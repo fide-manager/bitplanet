@@ -1,6 +1,6 @@
 {
   "name": "bitplanet",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "description": "bitplanet application",
   "main": "dist/index.js",
   "scripts": {
